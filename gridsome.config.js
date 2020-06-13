@@ -1,6 +1,6 @@
 module.exports = {
-  siteName: 'Gridsome',
-  siteDescription: 'A WordPress starter for Gridsome',
+  siteName: 'Shifter Headless',
+  siteDescription: 'Shifter Headless + Gridsome + AWS Amplify Console',
 
   templates: {
     WordPressCategory: '/category/:slug', // adds a route for the "category" post type (Optional)
